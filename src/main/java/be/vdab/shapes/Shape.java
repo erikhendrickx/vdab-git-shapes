@@ -1,4 +1,4 @@
-package main.java.be.vdab.shapes;
+package be.vdab.shapes;
 
 public abstract class Shape {
     protected String name;
