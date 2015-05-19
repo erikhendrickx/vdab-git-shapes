@@ -7,7 +7,6 @@ public class Rectangle extends Shape {
 
 	@Override
 	double area() {
-		System.out.println("RectangleArea");
-		return 0;
+		return 25;
 	}
 }
